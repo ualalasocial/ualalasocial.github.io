@@ -3,14 +3,11 @@ layout: portada
 title: "UALALA"
 headline: Experiencia Educativa
 permalink: /index.html
-description: "Custom written post descriptions are the way to go... if you're not lazy."
-category: theme
-tags: [sample post, readability]
 imagefeature: cover11.jpg
 share: true
 ---
 
-This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: `![cover-image](http://path-to-your-image.jpg)`
+Somos un colectivo que busca acompañar el aprendizaje y crianza de sus integrantes, tanto niñxs como adultxs, de forma comunitaria y compartida. Lo hacemos desde una perspectiva que busca respetar y potenciar la libertad, la autonomía y la singularidad de sus integrantes en sus procesos de aprendizaje y su crecimiento.
 
 Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
 

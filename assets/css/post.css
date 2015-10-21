@@ -117,9 +117,13 @@ html, body, .notepad-post-container, .notepad-post-header {
       color: black; }
     .post-template .notepad-post-title.background--dark h1 {
       color: white; }
+  #seguir {
+    position: relative;
+    float:left;
+  }
   .post-template button.trigger {
     position: fixed;
-    bottom: 2.5rem;
+    bottom: 0px;
     left: 50%;
     z-index: 5000;
     display: block;
@@ -289,7 +293,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     margin: 40px auto 0px;
     color: white !important;
     padding: 10px;
-    font-size: 13pt;
+    font-size: 16pt;
   }
   .post-template .intro-effect-sliced .notepad-post-header p {
     opacity: 1;
@@ -305,8 +309,8 @@ html, body, .notepad-post-container, .notepad-post-header {
     transform: translateY(200px);
     opacity: 0; }
   .post-template .intro-effect-sliced.modify .notepad-post-content > div {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
+    -webkit-transform: translateY(-150px);
+    transform: translateY(-150px);
     opacity: 1; }
   .post-template .intro-effect-sliced.modify:not(.notrans) .notepad-post-title {
     -webkit-transition-delay: 0.3s;
