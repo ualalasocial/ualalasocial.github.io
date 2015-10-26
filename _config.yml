@@ -34,14 +34,25 @@ links:
     url: /
     external: false
     icon: home
-  - title: Destacamos
-    url: /featured
+  # - title: Destacamos
+  #   url: /featured
   - title: Blog
     url: /blog
-  - title: Categorias
-    url: /categories
-  - title: Acerca de
-    url: /about
+  # - title: Categorias
+  #   url: /categories
+  # - title: Acerca de
+  #   url: /about
+  - title: El proyecto
+    url: /proyecto
+  - title: Nosotros
+    url: /nosotros
+  - title: Sumáte
+    url: /sumate
+  - title: Apoyános
+    url: /apoyanos
+  - title: Contacto
+    url: /contacto
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Argentina/Buenos_Aires
