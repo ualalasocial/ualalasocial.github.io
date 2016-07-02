@@ -6,15 +6,19 @@
     
     
     <url>
-        <loc>/404.html</loc>
-    </url>
-    
-    <url>
-        <loc>/about/index.html</loc>
+        <loc>/_pages/404</loc>
     </url>
     
     <url>
         <loc>/categories/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/en/contacto/</loc>
+    </url>
+    
+    <url>
+        <loc>/es/contacto/</loc>
     </url>
     
     <url>
@@ -26,15 +30,47 @@
     </url>
     
     <url>
+        <loc>/es/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/en/blog/</loc>
+    </url>
+    
+    <url>
+        <loc>/es/blog/</loc>
+    </url>
+    
+    <url>
         <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>/blog/index.html</loc>
+        <loc>/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>/links.jsonp</loc>
+        <loc>/en/nosotros/</loc>
+    </url>
+    
+    <url>
+        <loc>/es/nosotros/</loc>
+    </url>
+    
+    <url>
+        <loc>/en/participa/</loc>
+    </url>
+    
+    <url>
+        <loc>/es/participa/</loc>
+    </url>
+    
+    <url>
+        <loc>/en/proyecto/</loc>
+    </url>
+    
+    <url>
+        <loc>/es/proyecto/</loc>
     </url>
     
     <url>
@@ -46,37 +82,33 @@
     </url>
     
     <url>
+        <loc>/sumate/index.html</loc>
+    </url>
+    
+    <url>
         <loc>/tags/index.html</loc>
     </url>
     
     <url>
-        <loc>/page2/index.html</loc>
+        <loc>/fotos/buen_momento/</loc>
+    </url>
+    
+    <url>
+        <loc>/fotos/folder2/</loc>
+    </url>
+    
+    <url>
+        <loc>/fotos/</loc>
     </url>
     
 
     
     <url>
-        <loc>/webdevelopment/why-jekyll</loc>
+        <loc>/articles/estrenamos-sitio-web.es</loc>
     </url>
     
     <url>
-        <loc>/personal/introducing-notepad</loc>
-    </url>
-    
-    <url>
-        <loc>/theme/documentation</loc>
-    </url>
-    
-    <url>
-        <loc>/theme/readability-feature-post</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/readability-post</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/theme-elements</loc>
+        <loc>/articles/estrenamos-sitio-web.en</loc>
     </url>
     
 </urlset>

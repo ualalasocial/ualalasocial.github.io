@@ -57,7 +57,7 @@ html, body, .notepad-post-container, .notepad-post-header {
       height: 5rem;
       background-color: black;
       color: white;
-      position: absolute;
+      position: fixed;
       top: 0;
       left: 0;
       z-index: 9999; }
@@ -65,7 +65,7 @@ html, body, .notepad-post-container, .notepad-post-header {
         display: inline-block;
         max-height: 5rem; }
         .post-template .notepad-post-header .notepad-post-menu-header .notepad-blog-logo img {
-          max-height: 5rem; }
+          max-height: 5rem; padding: 0.5em;}
   .post-template .bg-img {
     position: absolute;
     overflow: hidden;
@@ -82,6 +82,11 @@ html, body, .notepad-post-container, .notepad-post-header {
       min-width: 100%;
       min-height: 100%;
       max-width: none; }
+        @media only screen and (max-width: 641px) {
+          .post-template .bg-img img {
+            translate: -50%;
+          }
+        }
   .post-template .notepad-post-title {
     z-index: 1000;
     margin: 0 auto;
@@ -197,8 +202,12 @@ html, body, .notepad-post-container, .notepad-post-header {
       @media only screen and (min-width: 70em) {
         .post-template .notepad-post-content > div:not(.notepad-post-title) {
           margin: -10% auto 0; } }
-      .post-template .notepad-post-content > div:not(.notepad-post-title) a, .post-template .notepad-post-content > div:not(.notepad-post-title) code {
-        color: #e51843; }
+          .post-template .notepad-post-content > div:not(.notepad-post-title) code {
+            color: #e51843; }
+      .post-template .notepad-post-content > div:not(.notepad-post-title) a {
+        color: white; background: #e51843; padding: 1px 3px; }
+      .post-template .notepad-post-content > div:not(.notepad-post-title) a:hover {
+          color: white; background: black; padding: 1px 3px; }
       .post-template .notepad-post-content > div:not(.notepad-post-title) ul, .post-template .notepad-post-content > div:not(.notepad-post-title) ol {
         padding-left: 1.25rem;
         font-size: 1.125rem; }
@@ -292,8 +301,9 @@ html, body, .notepad-post-container, .notepad-post-header {
     max-width: 600px;
     margin: 40px auto 0px;
     color: white !important;
-    padding: 10px;
+    padding: 1rem;
     font-size: 16pt;
+    box-shadow: #222222 0 0 25px;
   }
   .post-template .intro-effect-sliced .notepad-post-header p {
     opacity: 1;
@@ -392,7 +402,7 @@ html, body, .notepad-post-container, .notepad-post-header {
   height: 5rem;
   background-color: black;
   color: white;
-  position: relative;
+  position: fixed;
   z-index: 9999; }
   .notepad-page-menu-header .notepad-blog-logo,
   .notepad-post-menu-header-simple .notepad-blog-logo {
@@ -400,7 +410,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     max-height: 5rem; }
     .notepad-page-menu-header .notepad-blog-logo img,
     .notepad-post-menu-header-simple .notepad-blog-logo img {
-      max-height: 5rem; }
+      max-height: 5rem; padding: 0.5em;}
 
 .notepad-page-title,
 .notepad-post-title-simple {

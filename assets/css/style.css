@@ -14,7 +14,9 @@ body {
   line-height: 1; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif; }
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+}
 
 .notepad-parallax-background {
   position: fixed;
@@ -125,7 +127,7 @@ main, .notepad-share-icons, .notepad-disqus {
           text-align: left;
           padding: 0; }
           .notepad-blog-menu ul li a {
-            color: black;
+            color: white;
             display: inline-block;
             border-bottom: 0.1875rem solid transparent;
             width: auto;
@@ -615,7 +617,7 @@ figcaption {
 }
 /* =====================================
  * :: Select Text to Share CSS
- * 
+ *
  * @ Author: Hadrien Boyer
  * @ Website: http://hadrien-boyer.fr
  * @ v.0.1 - Last update : 2014/06/29
@@ -683,7 +685,7 @@ figcaption {
   top:0;
   left:0;
 }
-.tooltipContainer a { 
+.tooltipContainer a {
   width: 100%;
   background:transparent url(/images/sprites.png) 0px 0px no-repeat;
   padding:0;
@@ -1068,3 +1070,28 @@ img.mfp-img {
   top: 0;
   right: 0;
   padding-top: 0; }
+
+
+#lang {
+color:#ccc;
+margin: -1.5em 0 1.5em 0;
+}
+
+#lang a {
+  text-transform: uppercase;
+  background: #ccc;
+  color:black;
+  border-radius: 100%;
+  padding: 0.5em;
+  display: inline-block;
+  font-stretch: condensed;
+}
+
+.en:lang(en), .es:lang(es) {
+    background: #fff !important;
+    cursor: normal !important;
+}
+
+#lang a:hover {
+    background: #fff !important;
+}

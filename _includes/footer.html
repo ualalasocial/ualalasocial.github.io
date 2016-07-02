@@ -1,5 +1,19 @@
+{% if page.lang == 'es' %}
 <footer class="notepad-site-footer">
     <div class="copyright">
+      <div id="lang">
+        Contenido diponible en:
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% for post in posts %}
+            <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+          {% endfor %}
+
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% for page in pages %}
+              <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          {% endfor %}
+    </div>
+
          <section>Copyleft {{ site.time | date: '%Y' }} | Todos los derechos reversados.</section>
          <section>Sitio web cosido a mano usando <a class="icon-ghost" href="https://jekyllrb.com/">Software Libre</a></section>
     </div>
@@ -49,3 +63,70 @@
 
     <div class="cf"></div>
 </footer>
+{% endif %}
+{% if page.lang == 'en' %}
+<footer class="notepad-site-footer">
+
+    <div class="copyright">
+        <div id="lang">
+          This page is available in:
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+            {% for post in posts %}
+              <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+            {% endfor %}
+
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+            {% endfor %}
+      </div>
+      <section>Copyleft {{ site.time | date: '%Y' }} | All rights reversed.</section>
+      <section>Sitio web cosido a mano usando <a class="icon-ghost" href="https://jekyllrb.com/">Software Libre</a></section>
+    </div>
+    <div class="social-icons">
+
+        {% if site.owner.twitter %}
+        <a href="http://twitter.com/{{ site.owner.twitter }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-twitter fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.google_plus %}
+        <a href="{{ site.owner.google_plus }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-google-plus fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.instagram %}
+        <a href="http://instagram.com/{{ site.owner.instagram }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-instagram fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.github %}
+        <a href="http://github.com/{{ site.owner.github }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-github fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        {% if site.owner.facebook %}
+        <a href="http://facebook.com/{{ site.owner.facebook }}">
+            <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-facebook fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+    </div>
+
+    <div class="cf"></div>
+</footer>
+{% endif %}

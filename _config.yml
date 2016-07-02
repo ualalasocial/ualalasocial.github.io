@@ -1,9 +1,9 @@
 title:            UALALA
 description:      "Experiencia educativa"
-logo:             logo.png
+logo:             logo.svg
 # disqus_shortname: hmfaysal
 share:            true
-dropcap:			true
+dropcap:			false
 
 
 
@@ -29,38 +29,57 @@ owner:
 
 # Links to include in footer navigation
 # For external links add external: true
-links:
-  - title: Inicio
-    url: /
-    external: false
-    icon: home
-  # - title: Destacamos
-  #   url: /featured
-  - title: Blog
-    url: /blog
-  # - title: Categorias
-  #   url: /categories
-  # - title: Acerca de
-  #   url: /about
-  - title: El proyecto
-    url: /proyecto
-  - title: Nosotros
-    url: /nosotros
-  - title: Sumáte
-    url: /sumate
-  - title: Apoyános
-    url: /apoyanos
-  - title: Contacto
-    url: /contacto
 
+
+
+t:
+  es:
+    # home:
+    #   name: "Inicio"
+    #   url: "/es"
+    blog:
+      name: "Blog"
+      url: "/es/blog/"
+    proyecto:
+      name: "Proyecto"
+      url: "/es/proyecto/"
+    nosotros:
+      name: "Nosotros"
+      url: "/es/nosotros/"
+    participa:
+      name: "Participa"
+      url: "/es/participa/"
+    contacto:
+      name: "Contacto"
+      url: "/es/contacto/"
+
+  en:
+    # home:
+    #   name: "Inicio"
+    #   url: "/es"
+    blog:
+      name: "Blog"
+      url: "/en/blog/"
+    proyecto:
+      name: "Project"
+      url: "/en/proyecto/"
+    nosotros:
+      name: "About us"
+      url: "/en/nosotros/"
+    participa:
+      name: "Participate"
+      url: "/en/participa/"
+    contacto:
+      name: "Contact us"
+      url: "/en/contacto/"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Argentina/Buenos_Aires
 future:      true
 highlighter: pygments
 markdown:    kramdown
-paginate:    5
-paginate_path: "page:num"
+# paginate:    5
+# paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
@@ -70,7 +89,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers:
@@ -163,5 +182,26 @@ kramdown:
 #           value: false
 
 
-include: [".htaccess"]
+
+gallery:
+  dir: fotos
+  title: "Fotos"
+  title_prefix: "Fotos: "
+  sort_field: "date_time"
+  thumbnail_size:
+    x: 400
+    y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  # galleries:
+  #   folder1:
+  #     best_image: P1070663.JPG
+  #   folder2:
+  #     best_image: P1070686.JPG
+
+
+languages: ['en', 'es']
+
+include: ['_pages',".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+gems: [jekyll-paginate, jekyll-gallery-generator]
