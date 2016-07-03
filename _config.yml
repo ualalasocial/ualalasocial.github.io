@@ -5,7 +5,7 @@ logo:             logo.svg
 share:            true
 dropcap:			false
 # url: "http://ualala.org"
-# url: "http://ualalasocial.github.io"
+ogurl: "http://ualalasocial.github.io"
 
 
 
