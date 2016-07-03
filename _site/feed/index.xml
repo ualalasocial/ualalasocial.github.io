@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">UALALA</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2016-07-02T21:58:06-03:00</updated>
+<id>/</id>
+<author>
+  <name>Nombre del autor</name>
+  <uri>/</uri>
+  <email>hola@ualala.org</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Nos mudamos a un nuevo espacio]]></title>
+  <link>/tenemos_un_nuevo_espacio.es</link>
+  <id>/tenemos_un_nuevo_espacio.es</id>
+  <updated>2016-07-01T00:00:00-00:00</updated>
+  <published>2016-07-01T00:00:00-03:00</published>
+  
+  <author>
+    <name>Nombre del autor</name>
+    <uri></uri>
+    <email>hola@ualala.org</email>
+  </author>
+  <content type="html">&lt;p&gt;Seguimos avanzando y creciendo, hace un tiempo nos propusimos mudarnos a un espacio mas amplio. El objetivo se cumplió: ¡habemus Casa UALALA 2!.&lt;/p&gt;
+
+&lt;p&gt;A lo largo de esta primera mitad del año, el proyecto creció a gran velocidad: se sumaron nuevos participantes, ganas de hacer mas actividades y necesidad de seguir creciendo. Tuvimos claro que nuestra querida Casa UALALA nos estaba quedando, limitada únicamente al encuentro del peques quienes en los últimos tiempos ya comenzaban a dar señales de querer expandir y explorar.&lt;/p&gt;
+
+&lt;p&gt;Teniendo en claro eso, comenzamos a soñar con un espacio mas amplio, con varios ambienes y mas verde. Nos organizamos para localizar espacios de la ciudad que estuvieran en desuso o abandonados para luego acercarle a sus propietarios la invitación a que lo ofrecieran para nuestro proyecto social. A las pocas semanas de iniciar el rastrillaje, surgieron varias oportunidades. Finalmente, hace algunas semanas definimos nuestra nueva sede, la Casa UALALA 2.&lt;/p&gt;
+
+&lt;p&gt;Una casona de mas de un siglo ubicada en la calle Garibaldi al 1350, con amplios espacios para realizar comodamente los encuentros de los chicxs y mucho, ¡pero mucho mas!… Tenemos ahora un enorme fondo verde que llega hasta el centro de la manzana. La casa y el espacio en general ha sufrido los embates de los años y el abandono, pero ya estamos trabajando en ponerlo en condiciones para poder usarlo lo mas pronto posible.&lt;/p&gt;
+
+&lt;p&gt;Estamos muy felices, agradecidos y entusiasmados con esta nueva etapa que comenzamos a transitar. Nuevos cambios, nuevos desafios, las mismas ganas y amor de siempre.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/tenemos_un_nuevo_espacio.es&quot;&gt;Nos mudamos a un nuevo espacio&lt;/a&gt; was originally published by Nombre del autor at &lt;a href=&quot;&quot;&gt;UALALA&lt;/a&gt; on July 01, 2016.&lt;/p&gt;</content>
+</entry>
+
+</feed>
