@@ -122,9 +122,11 @@ html, body, .notepad-post-container, .notepad-post-header {
         .post-template .notepad-post-title h1 {
           font-size: 5.3125rem; } }
     .post-template .notepad-post-title.background--light h1 {
-      color: black; }
+      color: black;
+    text-shadow: white 0 0 8px;}
     .post-template .notepad-post-title.background--dark h1 {
-      color: white; }
+      color: white;
+    text-shadow: black 0 0 8px; }
   #seguir {
     position: relative;
     float:left;
@@ -262,7 +264,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     -webkit-transition-property: -webkit-transform, opacity;
     transition-property: transform, opacity; }
     .post-template .intro-effect-sliced:not(.notrans) .notepad-post-header h1 {
-    text-shadow: #fff 0 0 26px;
+    /*text-shadow: #fff 0 0 26px;*/
 
     }
 
