@@ -81,7 +81,10 @@ html, body, .notepad-post-container, .notepad-post-header {
       display: block;
       min-width: 100%;
       min-height: 100%;
-      max-width: none; }
+      max-width: none;
+      opacity: 0.75;
+
+    }
         @media only screen and (max-width: 641px) {
           .post-template .bg-img img {
             translate: -50%;
@@ -140,7 +143,9 @@ html, body, .notepad-post-container, .notepad-post-header {
     background: transparent;
     color: transparent;
     font-size: 2em;
-    cursor: pointer; }
+    cursor: pointer;
+    text-shadow: black 0 0 8px;
+  }
     .post-template button.trigger.background--light::before, .post-template button.trigger.background--light span::before {
       color: black; }
     .post-template button.trigger.background--dark::before, .post-template button.trigger.background--dark span::before {
@@ -160,6 +165,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     padding: 0.8em;
     width: 500%;
     color: black;
+    text-shadow: black 0 0 8px;
     content: attr(data-info);
     font-size: 1.125rem;
     text-transform: uppercase;
@@ -255,6 +261,11 @@ html, body, .notepad-post-container, .notepad-post-header {
   .post-template .intro-effect-sliced:not(.notrans) .notepad-post-content > div {
     -webkit-transition-property: -webkit-transform, opacity;
     transition-property: transform, opacity; }
+    .post-template .intro-effect-sliced:not(.notrans) .notepad-post-header h1 {
+    text-shadow: #fff 0 0 26px;
+
+    }
+
   .post-template .intro-effect-sliced:not(.notrans) .bg-img,
   .post-template .intro-effect-sliced:not(.notrans) .notepad-post-header h1,
   .post-template .intro-effect-sliced:not(.notrans) .notepad-post-title,
