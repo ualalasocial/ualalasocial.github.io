@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Nos mudamos a un nuevo espacio
-description: "Momento de cambios y nuevos desafíos: ¡UALALA sigue creciendo!... ¡tenemos un nuevo espacio!"
-modified: 2016-07-01
+description: >-
+  Momento de cambios y nuevos desafíos: ¡UALALA sigue creciendo!... ¡tenemos un
+  nuevo espacio!
+modified: 2016-07-01T00:00:00.000Z
 lang: es
 ref: 2016-07-01-tenemos_un_nuevo_espacio
 imagefeature: fotos/blog/2016-07-01.jpg
+published: true
 ---
 
 Seguimos avanzando y creciendo, hace un tiempo nos propusimos mudarnos a un espacio mas amplio. El objetivo se cumplió: ¡habemus Casa UALALA 2!.
