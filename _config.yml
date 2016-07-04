@@ -76,7 +76,7 @@ t:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Argentina/Buenos_Aires
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 # paginate:    5
 # paginate_path: "page:num"
