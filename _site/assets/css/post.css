@@ -82,9 +82,9 @@ html, body, .notepad-post-container, .notepad-post-header {
       min-width: 100%;
       min-height: 100%;
       max-width: none;
-      -webkit-filter: brightness(200%); /* Chrome, Safari, Opera */
-      filter: brightness(200%);
-      
+      -webkit-filter: brightness(80%); /* Chrome, Safari, Opera */
+      filter: brightness(80%);
+
 
     }
         @media only screen and (max-width: 641px) {
@@ -117,6 +117,8 @@ html, body, .notepad-post-container, .notepad-post-header {
             min-height: 100%;
             max-width: none;
             opacity: 1;
+            -webkit-filter: brightness(100%); /* Chrome, Safari, Opera */
+            filter: brightness(100%);
 
           }
               @media only screen and (max-width: 641px) {
