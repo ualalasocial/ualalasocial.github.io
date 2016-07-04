@@ -5,7 +5,7 @@ description: "Momento de cambios y nuevos desafíos: ¡UALALA sigue creciendo!..
 modified: 2016-07-01
 lang: es
 ref: 2016-07-01-tenemos_un_nuevo_espacio
-imagefeature: fotos/blog/2016-07-01.jpg
+imagefeature: fotos/blog/2016-07-01-1.jpg
 ---
 
 Seguimos avanzando y creciendo, hace un tiempo nos propusimos mudarnos a un espacio mas amplio. El objetivo se cumplió: ¡habemus Casa UALALA 2!.
