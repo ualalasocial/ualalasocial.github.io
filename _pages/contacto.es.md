@@ -3,14 +3,14 @@ layout: page
 permalink: /es/contacto/
 lang: es
 ref: contacto
-title: Contactános
+title: Contactanos
 ---
 
-## Escribínos
+## Escribinos
 
 Siempre nos alegra recibir correo. Si querés saber mas sobre el proyecto, te querés sumar o tenés cualquier tipo de consulta, escribínos a **hola[arroba]ualala.org**
 
-## Visitános
+## Visitanos
 
 Tenemos nuestro propio espacio físico, la Casa UALALA en Garibaldi 1350, Tandil, Argentina. Las visitas son muy bienvenidas, solo pedimos que antes nos contacten para acordar día y hora.
 

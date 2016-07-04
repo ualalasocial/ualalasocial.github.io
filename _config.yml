@@ -4,10 +4,8 @@ logo:             logo.svg
 # disqus_shortname: hmfaysal
 share:            true
 dropcap:			false
-# url: "http://ualala.org"
-ogurl: "http://ualalasocial.github.io"
 
-
+ogurl: "http://ualala.org"
 
 # Owner/author information
 owner:

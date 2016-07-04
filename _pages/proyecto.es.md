@@ -18,7 +18,6 @@ Elegimos no tener autoridades ni docentes ni supuestxs expertxs, tampoco tenemos
 Si bien algunx de lxs participantes asiste a la escuela formal; UALALA existe, principalmente, como un lugar para el encuentro, crecimiento y aprendizaje de chicxs que no están escolarizados, ya sea por su propia decisión o por la de sus padres.
 
 
-
 ## Principios fundamentales
 
 UALALA es una experiencia educativa:
@@ -29,16 +28,3 @@ UALALA es una experiencia educativa:
 * **Libertaria:** entendemos la libertad como una construcción colectiva, rechazamos toda forma de opresión y nos reconocemos en el legado histórico de las expresiones pedagógicas libertarias.
 * **Orgánica:** somos un organismo colectivo vivo, dinámico y cambiante; aceptamos el cambio y rechazamos los dogmas, la institucionalización y aceptamos la posibilidad de dejar de existir.
 * **Desescolarizante:** nos centramos en sostener colectivamente la educación no escolarizada de todos los participantes y buscando acompañar la desescolarización de aquellos que se encuentren dentro de instituciones escolares, tanto formales como no formales.
-
-
-## Orígenes e historia reciente
-
-El proyecto nace en mayo de 2013 frente a la inquietud de un par de familias respecto de la escolarización de sus hijxs. Impulsados por la decisión de no incluir a los niñxs en el sistema educativo oficial, decidimos tomar a tiempo las riendas del asunto y comenzar a dar forma a una nueva idea de educación.
-
-En principio, se estudiaron las diferentes pedagogías y experiencias llevadas adelante en diferentes lugares, con el propósito de encontrar la que se adecuase más a nuestros intereses, necesidades e ideales. Luego de una sucesión de reuniones decidimos definirnos en el marco de la pedagogías libres.
-
-A finales del 2013 y durante el 2014 desarrollamos encuentros de forma itinerante, alternando entre hogares y espacios públicos de la ciudad.
-
-En 2015 el proyecto siguió creciendo. Organizamos el 3er Encuentro Provincial de Escuelas Posibles, al cual concurrieron mas de 200 personas de toda Argentina. Realizamos un ciclo de formación en pedagogías alternativas en conjunto con Reevo y con sede en la Universidad Nacional del Centro de Buenos Aires.
-
-También nos propusimos contar con un espacio físico propio, lo cual comenzó a concretarse a mitad del 2015. Nació así la primera Casa UALALA en la calle Darragueira, el lugar donde el proyecto siguió creciendo al punto que solo luego un año despues, nos pusimos en campaña para conseguir un espacio mas grande. En Junio de 2016 nos mudamos a un nuevo espacio, el cual actualmente estamos comenzando a dar vida.
