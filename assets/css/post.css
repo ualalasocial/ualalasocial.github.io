@@ -82,10 +82,9 @@ html, body, .notepad-post-container, .notepad-post-header {
       min-width: 100%;
       min-height: 100%;
       max-width: none;
+      opacity: 1;
       -webkit-filter: brightness(80%); /* Chrome, Safari, Opera */
       filter: brightness(80%);
-
-
     }
         @media only screen and (max-width: 641px) {
           .post-template .bg-img img {
@@ -94,7 +93,7 @@ html, body, .notepad-post-container, .notepad-post-header {
         }
         @media only screen and (max-width: 1120px) {
           .post-template .bg-img img {
-            max-width: 100%;
+            max-width: 1200px;
 
           }
         }
@@ -117,11 +116,9 @@ html, body, .notepad-post-container, .notepad-post-header {
             min-height: 100%;
             max-width: none;
             opacity: 1;
-            -webkit-filter: brightness(100%); /* Chrome, Safari, Opera */
-            filter: brightness(100%);
 
           }
-              @media only screen and (max-width: 641px) {
+              @media only screen and (max-width: 1120px) {
                 .home .bg-img img {
                   translate: -50%;
 
@@ -358,11 +355,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     box-shadow: #222222 0 0 25px;
   }
 
-  @media only screen and (max-width: 641px) {
-    .home-description { {
-      font-size: 12pt;
-    }
-  }
+
 
   .post-template .intro-effect-sliced .notepad-post-header p {
     opacity: 1;
@@ -502,7 +495,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     @media only screen and (min-width: 70em) {
       .notepad-page-title h1,
       .notepad-post-title-simple h1 {
-        padding-top: 6.875rem;
+        padding-top: 11.875rem;
         padding-bottom: 6.875rem; } }
     @media only screen and (min-width: 90em) {
       .notepad-page-title h1,
