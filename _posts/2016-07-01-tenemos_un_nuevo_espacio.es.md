@@ -15,7 +15,7 @@ A lo largo de esta primera mitad del año, el proyecto creció a gran velocidad:
 
 ![Limpiando el frente de la casa](/fotos/blog/2016-07-01-0.jpg)
 
-Teniendo en claro eso, comenzamos a soñar con un espacio mas amplio, con varios ambienes y mas verde. Nos organizamos para localizar espacios de la ciudad que estuvieran en desuso o abandonados para luego acercarle a sus propietarios la invitación a que lo ofrecieran para nuestro proyecto social. A las pocas semanas de iniciar el rastrillaje, surgieron varias oportunidades. Finalmente, hace algunas semanas definimos nuestra nueva sede, la Casa UALALA 2.
+Teniendo en claro eso, comenzamos a soñar con un espacio mas amplio, con varios ambientes y mas verde. Nos organizamos para localizar espacios de la ciudad que estuvieran en desuso o abandonados para luego acercarle a sus propietarios la invitación a que lo ofrecieran para nuestro proyecto social. A las pocas semanas de iniciar el rastrillaje, surgieron varias oportunidades. Finalmente, hace algunas semanas definimos nuestra nueva sede, la Casa UALALA 2.
 
 Es una casona de mas de un siglo ubicada en la calle Garibaldi al 1350, con amplios espacios para realizar comodamente los encuentros de los chicxs y mucho, ¡pero mucho mas!... Además de un gran potencial, cuenta con un enorme fondo verde que llega hasta el centro de la manzana, con arbustos y frutales. La casa y el espacio en general ha sufrido los embates de los años y el abandono, pero ya estamos trabajando en ponerlo en condiciones para poder usarlo lo mas pronto posible.
 
