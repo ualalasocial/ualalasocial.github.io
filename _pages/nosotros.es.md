@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /es/nosotros/
+permalink: /es/nosotrxs/
 title: ¿Quiénes somos?
 lang: es
-ref: nosotros
+ref: nosotrxs
 ---
 
 ## Breve descripción del grupo
