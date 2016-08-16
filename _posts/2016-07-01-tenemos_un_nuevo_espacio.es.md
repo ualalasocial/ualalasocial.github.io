@@ -21,4 +21,4 @@ Es una casona de mas de un siglo ubicada en la calle Garibaldi al 1350, con ampl
 
 Estamos muy felices, agradecidos y entusiasmados con esta nueva etapa que comenzamos a transitar. Nuevos cambios, nuevos desafios, las mismas ganas y el amor de siempre.
 
-![Limpiando el frente de la casa](/fotos/blog/2016-07-01.jpg)
+![El grupo almuerza](/fotos/blog/2016-07-01.jpg)
