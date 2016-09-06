@@ -9,7 +9,7 @@ imagefeature: fotos/blog/2016-07-01-1.jpg
 published: true
 ---
 
-Seguimos avanzando y creciendo! 
+¡Seguimos avanzando y creciendo! 
 
 Hace un tiempo nos propusimos mudarnos a un espacio más amplio... El objetivo se cumplió: ¡habemus Casa UALALA 2!.
 
