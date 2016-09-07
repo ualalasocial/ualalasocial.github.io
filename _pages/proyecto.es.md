@@ -9,7 +9,7 @@ chart: true
 
 ## La propuesta pedagógica
 
-Es un proyecto educativo no escolar enmarcado en las ideas y prácticas de la Educación Libre, desde la perspetiva particular de la pedagogía libertaria. UALALA es un lugar donde lxs niñxs pueden desarrollarse siguiendo su propia curiosidad e interés, un lugar en el que cada aprendiz es libre de encontrar su propio camino... un lugar en el que aprender, no es distinto de vivir.
+Es un proyecto educativo no escolar enmarcado en las ideas y prácticas de la Educación Libre, desde la perspetiva particular de la pedagogía libertaria. UALALA es un lugar donde lxs niñxs pueden desarrollarse siguiendo su propia curiosidad e interés, un lugar en el que cada aprendiz es libre de encontrar su propio camino... un lugar en el que aprender no es distinto de vivir.
 
 Hoy en día se desarrolla en un espacio físico propio, la Casa UALALA, con 3 encuentros semanales de aprendizaje y juego libre a los que asisten chicxs de entre 1 y 9 años. Muchas veces los encuentros se hacen en otros lugares, sobre todo al aire libre. En la Casa disponemos de materiales y recursos diversos a disposición de lxs peques: libros, pinturas, agua, tubos, sogas, juegos, harinas, tierra, disfraces, árboles, juguetes, arena, fuego... y la lista continua. Lxs chicxs juegan, retozan, fantasean, prueban, experimentan, se caen, se levantan, se rien, se fascinan, lloran, se pelean, conversan, se esconden, se abrazan. Todo esto sin una mediación o dirección de lxs facilitadorxs, adultxs que se limitan a acompañarlxs interviniendo lo mínimo e indispensable, pero siempre atentxs a sus necesidades físicas, intelectuales y emocionales.
 
