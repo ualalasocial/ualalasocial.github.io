@@ -8,7 +8,7 @@ title: Contactanos
 
 ## Escribinos
 
-Siempre nos alegra recibir correo. Si querés saber más sobre el proyecto, te querés sumar o tenés cualquier tipo de consulta, escribínos a **hola[arroba]ualala.org**
+Siempre nos alegra recibir correo. Si querés saber más sobre el proyecto, te querés sumar o tenés cualquier tipo de consulta, escribinos a **hola[arroba]ualala.org**
 
 ## Visitanos
 
