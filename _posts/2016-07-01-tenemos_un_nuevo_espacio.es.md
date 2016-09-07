@@ -11,7 +11,7 @@ published: true
 
 ¡Seguimos avanzando y creciendo! 
 
-Hace un tiempo nos propusimos mudarnos a un espacio más amplio... El objetivo se cumplió: ¡habemus Casa UALALA 2!.
+Hace un tiempo nos propusimos mudarnos a un espacio más amplio... El objetivo se cumplió: ¡habemus Casa UALALA 2!
 
 A lo largo de esta primera mitad del año, el proyecto creció a gran velocidad: se sumaron nuevxs participantes, ganas de hacer más actividades y necesidad de seguir creciendo. Tuvimos claro que nuestra querida primera Casa UALALA nos estaba quedando chica, limitada únicamente al encuentro de peques, quienes en los últimos tiempos ya comenzaban a dar señales de querer expandir y explorar.
 
