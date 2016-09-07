@@ -16,7 +16,7 @@ Al tratarse de una iniciativa autogestiva, todas las decisiones y responsabilida
 
 Para participar no es indispensable tener hijxs ni que lxs mismxs hagan parte de UALALA. Cualquier persona puede participar del proyecto. La incorporación de nuevxs miembrxs se define por consenso en la asamblea del proyecto. Por algunos períodos de tiempo y por diversas razones, no incorporamos paricipantes de forma inmediata.
 
-**Si querés que tus hijxs hagan parte de esta experiencia educativa alternativa o si vos como adultx deseas sumarte a esta aventura, [¡no dudes en escribirnos!](/es/contacto)...**
+**Si querés que tus hijxs hagan parte de esta experiencia educativa alternativa o si vos como adultx deseás sumarte a esta aventura, [¡no dudes en escribirnos!](/es/contacto)**
 
 ## Colaborá con nosotrxs
 
