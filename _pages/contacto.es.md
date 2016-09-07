@@ -8,11 +8,11 @@ title: Contactanos
 
 ## Escribinos
 
-Siempre nos alegra recibir correo. Si querés saber mas sobre el proyecto, te querés sumar o tenés cualquier tipo de consulta, escribínos a **hola[arroba]ualala.org**
+Siempre nos alegra recibir correo. Si querés saber más sobre el proyecto, te querés sumar o tenés cualquier tipo de consulta, escribínos a **hola[arroba]ualala.org**
 
 ## Visitanos
 
-Tenemos nuestro propio espacio físico, la Casa UALALA en Garibaldi 1350, Tandil, Argentina. Las visitas son muy bienvenidas, solo pedimos que antes nos contacten para acordar día y hora.
+Tenemos nuestro propio espacio físico: la Casa UALALA, en Garibaldi 1350 (Tandil, Argentina). Las visitas son muy bienvenidas, sólo pedimos que antes nos contacten para acordar día y hora.
 
 ## Otras vías de contacto
 
