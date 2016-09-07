@@ -16,7 +16,7 @@ Tenemos nuestro propio espacio físico: la Casa UALALA, en Garibaldi 1350 (Tandi
 
 ## Otras vías de contacto
 
-Nos podés encontrar en varias redes sociales:
+Nos podés encontrar en las redes sociales:
 
 * Facebook: [/ualalasocial](http://fb.me/ualalasocial)
 * Twitter:  [@ualalasocial](http://twitter.com/ualalasocial)
